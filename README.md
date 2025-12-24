@@ -25,7 +25,7 @@ Limitations:
   Uno R3 (ATmega328) (memory limit). This value is rather theoretical,
   however, as the Arduino motor shields with L298 H-bridges can only drive a
   maximum of 2A. Realistically, this corresponds to approximately 8-10
-  pulls.
+  trains.
 
 ## Command Overview
 
