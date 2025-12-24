@@ -49,9 +49,10 @@ address and n represents a valid number appropriate to the context:
 ```
 !I     Retrieve version information
 
-!R     Reset: Send DCC reset packets,
-              disable all trains and reset speed and functions
-!S     Reset speed and functions of all trains
+!R     disable all trains and reset speed and functions,
+       send DCC reset packets  
+!S     reset speed and functions of all trains,
+       NO DCC reset packets are sent
 
 !P+    Enable track power
 !P-    Disable track power
